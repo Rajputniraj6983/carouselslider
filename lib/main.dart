@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'view/carousal_slide_screen.dart';
 void main(){
-  runApp(CarousalSlide());
+  runApp(MyApp());
 }
  class MyApp extends StatelessWidget {
    const MyApp({super.key});
